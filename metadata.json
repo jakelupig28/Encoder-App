@@ -1,0 +1,6 @@
+{
+  "name": "Document Text Extractor",
+  "description": "Accurate web-based text extraction system to upload JPG, PNG, PDF, DOCX, and XLSX files, and copy extracted text with a single click.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
